@@ -9,4 +9,6 @@ Emoji interpreter in ReactJS
 ## Features
 - Shop Look UI
 
+Alternatively you can check this [Code Sandbox Link](https://w6u6yj.csb.app/)
+
 ![Screenshot](mark8.png?raw=true)
