@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=DynaPuff:wght@400;600&display=swap");
+
+.App {
+  font-family: "DynaPuff", cursive;
+  text-align: center;
+}
+
+h1 {
+  background-color: rgb(255, 240, 211);
+  border: 5px solid #c40808;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+h3 {
+  margin: 0%;
+  background-color: moccasin;
+  margin-bottom: 2%;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+.innerDiv {
+  border: 3px solid black;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  height: 90%;
+}
+
+input {
+  margin: 3%;
+  margin-bottom: 0%;
+  border: 2px solid maroon;
+  padding: 0.5rem;
+  width: 70%;
+  font-size: 2rem;
+}
+
+button {
+  display: block;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: 45%;
+  padding: 0.2rem;
+}
+
+::placeholder {
+  color: gray;
+  font-size: 50%;
+  max-width: 50%;
+}
