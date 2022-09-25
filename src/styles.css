@@ -56,3 +56,13 @@ button {
   font-size: 50%;
   max-width: 50%;
 }
+
+.emoji {
+  font-size: 2rem;
+  padding: 1rem; 
+  cursor: pointer;
+}
+
+.emoji:hover{
+    filter: drop-shadow(0 0 10px red);
+}
