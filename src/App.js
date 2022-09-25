@@ -105,7 +105,7 @@ export default function App() {
         {/* <button onClick={() => clearInput()}>Clear</button> */}
       </div>
       <div>
-        <small>View this Project on <a href="">Github</a></small>
+        <small>View this Project on <a href="https://github.com/Xitija/Emoji-Clothes-and-Accessories">Github</a></small>
       </div>
     </div>
     
